@@ -1,0 +1,54 @@
+﻿  actor.cpp
+C:\Users\Enzo\Desktop\Sniper Flop\actor.cpp(39,11): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\actor.cpp(46,11): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  administrador.cpp
+C:\Users\Enzo\Desktop\Sniper Flop\administrador.cpp(12,30): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+  nivel1.cpp
+C:\Users\Enzo\Desktop\Sniper Flop\nivel1.cpp(40,33): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\nivel1.cpp(309,118): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  menu.cpp
+  nivel2.cpp
+C:\Users\Enzo\Desktop\Sniper Flop\nivel2.cpp(39,33): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\nivel2.cpp(311,118): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  radgoll.cpp
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(14,56): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(15,57): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(16,62): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(16,44): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(17,62): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(17,44): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(18,62): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(18,44): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(19,64): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(19,45): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(32,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(32,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(33,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(33,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(34,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(34,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(35,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(35,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(36,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(36,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(37,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(37,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(52,115): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(52,188): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(53,122): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(53,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(53,202): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(53,166): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(54,122): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(54,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(54,202): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(54,166): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(55,122): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(55,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(55,195): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(56,122): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(56,86): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Enzo\Desktop\Sniper Flop\radgoll.cpp(56,195): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  RadgollEnzo.cpp
+  Generando código...
+  RadgollEnzo.vcxproj -> C:\Users\Enzo\Desktop\Sniper Flop\x64\Debug\RadgollEnzo.exe

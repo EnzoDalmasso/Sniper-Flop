@@ -1,0 +1,14 @@
+C:\Users\Enzo\Desktop\Facultad UNL\Modelos y algoritmos 2\3 - Resortes y cuerpos blandos\RadgollEnzo\x64\Debug\RadgollEnzo.exe
+C:\Users\mobel\Downloads\RadgollEnzo\x64\Debug\RadgollEnzo.exe
+C:\Users\mobel\Desktop\Curso cideter\RadgollEnzo\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\Modelo y Algoritmos 2\RadgollEnzo\x64\Debug\RadgollEnzo.exe
+C:\Users\mobel\Desktop\Curso cideter\RadgollEnzo + cañon\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\Modelo y Algoritmos 2\RadgollEnzo + cañon\x64\Debug\RadgollEnzo.exe
+C:\Users\mobel\Desktop\Curso cideter\Mavi II\RadgollEnzo + cañon\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\TP Final Mavi II\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\Enzo\Enzo\Facultad UNL\Modelos y algoritmos 2\TP Final Mavi II\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\TP Final Mavi II Prueba\x64\Debug\RadgollEnzo.exe
+C:\Users\mobel\Desktop\Curso cideter\TP Final Mavi II\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\TP Final Mavi II\TP Final Mavi II\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\Enzo\Enzo\Facultad UNL\Modelos y algoritmos 2\TP Final Mavi II\TP Final Mavi II\x64\Debug\RadgollEnzo.exe
+C:\Users\Enzo\Desktop\Sniper Flop\x64\Debug\RadgollEnzo.exe
