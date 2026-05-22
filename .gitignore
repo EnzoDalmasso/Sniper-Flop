@@ -1,32 +1,49 @@
-# Prerequisites
-*.d
+# --- Filtrado específico de Visual Studio ---
+.vs/
+Debug/
+Release/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.aps
+*.suo
+*.ncb
+*.tlog
+*.log
+*.ilk
+*.idb
+*.sdf
+*.opensdf
+*.db
+*.ipch
+*.vcb
+*.vc.db
+*.exe.recipe
+AppPackages/
+BundleArtifacts/
 
-# Compiled Object files
-*.slo
-*.lo
+# --- Archivos Objeto y Compilación General ---
 *.o
 *.obj
-
-# Precompiled Headers
+*.slo
+*.lo
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
+# --- Librerías Compiladas (Ignoramos para compilar en limpio de ser necesario) ---
+# Nota: Si tu Box2D o SFML están en formato .lib/.dll dentro de estas carpetas, 
+# se ignorarán. Es mejor tenerlas instaladas en el sistema o referenciadas fuera.
 *.so
 *.dylib
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
 *.lib
+*.a
+*.la
+*.lai
 
-# Executables
+# --- Ejecutables finales ---
 *.exe
 *.out
 *.app
